@@ -1,4 +1,4 @@
-# Exercicio 1006 - Uri Judge
+# Exercicio 1007 - Uri Judge
 
 ## Linguagem: Python
 
